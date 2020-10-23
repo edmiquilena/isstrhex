@@ -1,14 +1,11 @@
 {
-  "name": "@edmiquilena/isstrhex",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/" 
-},
-  "version": "1.0.1",
+  "name": "isstrhex",
+  "version": "1.0.5",
   "description": "Validate if string is purely hexadecimal",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
- },
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/edmiquilena/isstrhex.git"
@@ -24,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/edmiquilena/isstrhex/issues"
   },
-
   "homepage": "https://github.com/edmiquilena/isstrhex#readme",
   "devDependencies": {
     "mocha": "^8.2.0"
